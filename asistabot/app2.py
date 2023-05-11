@@ -8,7 +8,7 @@ import re
 
 # Set your OpenAI API key
 openai.api_key = ""
-OPENWEATHERMAP_API_KEY = "3ac870b912b7e55af566c4c5c4c50063"
+OPENWEATHERMAP_API_KEY = ""
 
 EMAIL_ADDRESS = "joshsoke@gmail.com"
 EMAIL_PASSWORD = ""
